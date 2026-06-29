@@ -111,40 +111,6 @@ Currently building **Storito** — a next-gen micro-storytelling app for the mob
 
 ---
 
-<!-- ══════════════════════ GITHUB STATS ══════════════════════ -->
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=AtulPurohit&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=F97316&icon_color=F97316&text_color=c9d1d9" height="165em"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtulPurohit&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F97316&text_color=c9d1d9" height="165em"/>
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=AtulPurohit&theme=tokyonight&hide_border=true&background=0D1117&ring=F97316&fire=FF6B6B&currStreakLabel=F97316" height="165em"/>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-<!-- ══════════════════════ TROPHIES ══════════════════════ -->
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=AtulPurohit&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 ---
 
 <!-- ══════════════════════ TECH STACK ══════════════════════ -->
@@ -178,17 +144,7 @@ Currently building **Storito** — a next-gen micro-storytelling app for the mob
   </tr>
 </table>
 
----
 
-<!-- ══════════════════════ ACTIVITY GRAPH ══════════════════════ -->
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-[![Atul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AtulPurohit&bg_color=0d1117&color=F97316&line=F97316&point=FF6B6B&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
 
 ---
 
