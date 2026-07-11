@@ -166,19 +166,3 @@ Currently building **Storito** — a next-gen micro-storytelling app for the mob
 </div>
 
 ---
-
-<!-- ══════════════════════ FOOTER ══════════════════════ -->
-
-<div align="center">
-
-### ✍️ Quote I Live By
-
-> *"The best time to plant a tree was 20 years ago. The second best time is now."*
-
-<br/>
-
-**Thanks for visiting! ❤️ — Drop a ⭐ if you find something interesting!**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,20&height=100&section=footer" width="100%"/>
-
-</div>
