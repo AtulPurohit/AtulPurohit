@@ -2,10 +2,6 @@
 
 <!-- ══════════════════════ HEADER ══════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,20&height=200&section=header&text=Atul%20Purohit&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Serial%20Entrepreneur%20%7C%20Software%20Developer%20%7C%20Published%20Author&descAlignY=60&descSize=20" width="100%"/>
-
-<br/>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=650&lines=👋+Hey%2C+I'm+Atul+Purohit!;🚀+Founder+%26+CEO+of+Writco;📱+Building+Storito+—+The+Future+of+Stories;🤖+Exploring+Agentic+AI+%26+LLMs;✍️+Serial+Entrepreneur+%26+Author)](https://git.io/typing-svg)
 
 <br/>
@@ -40,7 +36,6 @@ Currently building **Storito** — a next-gen micro-storytelling app for the mob
 - 💬 **Talk to me about:** Startups · Product Dev · Flutter · AI/ML · Publishing
 - ✍️ **Passionate about:** Poetry · Creative Writing · Storytelling
 - 🎱 **Hobbies:** Snooker & Table Tennis
-- 🌍 **Mission:** Building tools for the **next billion readers & writers**
 
 </td>
 <td valign="top" width="40%" align="center">
@@ -59,8 +54,7 @@ Currently building **Storito** — a next-gen micro-storytelling app for the mob
     <td width="50%" valign="top">
       <h3 align="center">Writco</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Flutter-iOS%20%7C%20Android%20%7C%20Web-F97316?style=for-the-badge&logo=flutter&logoColor=white" />
-      </p>
+        <p></p>p
       <p align="center">The world's <strong>first reader-rewarding</strong> platform. A multilingual social writing & reading community connecting millions across 10+ languages — where readers earn rewards for reading!</p>
       <p align="center">
         <a href="https://www.writco.in" target="_blank"><img src="https://img.shields.io/badge/🌐_writco.in-Visit_Platform-F97316?style=for-the-badge" /></a>
@@ -68,9 +62,7 @@ Currently building **Storito** — a next-gen micro-storytelling app for the mob
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🔨 Storito <sup><code>In Dev</code></sup></h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Flutter-iOS%20%7C%20Android-F97316?style=for-the-badge&logo=flutter&logoColor=white" />
-      </p>
+      <p></p>
       <p align="center"><strong>Where Every Story Lives Forever.</strong> A next-gen micro-storytelling app — craft, share & experience immersive short stories in seconds. <em>Instagram meets Wattpad.</em></p>
       <p align="center">
         <a href="https://storito.in"><img src="https://img.shields.io/badge/🌐_storito.in-Visit_Website-FF6B6B?style=for-the-badge" /></a>
@@ -119,32 +111,18 @@ Currently building **Storito** — a next-gen micro-storytelling app for the mob
 
 <table>
   <tr>
-    <td><b>📱 Mobile</b></td>
-    <td><img src="https://skillicons.dev/icons?i=flutter,dart" /></td>
+    <td><b>🌐 Frontend, 📱 Mobile</b></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,wordpress,flutter,dart" /></td>
   </tr>
   <tr>
-    <td><b>🌐 Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,wordpress" /></td>
-  </tr>
-  <tr>
-    <td><b>⚙️ Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,firebase,gcp" /></td>
-  </tr>
-  <tr>
-    <td><b>🗄️ Database</b></td>
-    <td><img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" /></td>
-  </tr>
-  <tr>
-    <td><b>🤖 AI / ML</b></td>
-    <td><img src="https://skillicons.dev/icons?i=python,tensorflow" /></td>
+    <td><b>⚙️ Backend, 🗄️ Database, 🤖 AI / ML</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,firebase,gcp,mongodb,mysql,redis,python,tensorflow" /></td>
   </tr>
   <tr>
     <td><b>🔧 DevOps</b></td>
     <td><img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma" /></td>
   </tr>
 </table>
-
-
 
 ---
 
