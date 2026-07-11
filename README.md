@@ -45,34 +45,6 @@ Currently building **Storito** — a next-gen micro-storytelling app for the mob
 
 ---
 
-<!-- ══════════════════════ WHAT I'M BUILDING ══════════════════════ -->
-
-## 🚀 What I'm Building
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Writco</h3>
-      <p align="center">
-        <p></p>p
-      <p align="center">The world's <strong>first reader-rewarding</strong> platform. A multilingual social writing & reading community connecting millions across 10+ languages — where readers earn rewards for reading!</p>
-      <p align="center">
-        <a href="https://www.writco.in" target="_blank"><img src="https://img.shields.io/badge/🌐_writco.in-Visit_Platform-F97316?style=for-the-badge" /></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🔨 Storito <sup><code>In Dev</code></sup></h3>
-      <p></p>
-      <p align="center"><strong>Where Every Story Lives Forever.</strong> A next-gen micro-storytelling app — craft, share & experience immersive short stories in seconds. <em>Instagram meets Wattpad.</em></p>
-      <p align="center">
-        <a href="https://storito.in"><img src="https://img.shields.io/badge/🌐_storito.in-Visit_Website-FF6B6B?style=for-the-badge" /></a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
 <!-- ══════════════════════ CURRENTLY LEARNING ══════════════════════ -->
 
 ## 🧠 Currently Learning & Exploring
@@ -112,10 +84,10 @@ Currently building **Storito** — a next-gen micro-storytelling app for the mob
 <table>
   <tr>
     <td><b>🌐 Frontend, 📱 Mobile</b></td>
-    <td><img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,wordpress,flutter,dart" /></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,wordpress,flutter,dart,tailwind" /></td>
   </tr>
   <tr>
-    <td><b>⚙️ Backend, 🗄️ Database, 🤖 AI / ML</b></td>
+    <td><b>⚙️ Backend, 🗄️ DB, 🤖 AI/ML</b></td>
     <td><img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,firebase,gcp,mongodb,mysql,redis,python,tensorflow" /></td>
   </tr>
   <tr>
@@ -135,10 +107,8 @@ Currently building **Storito** — a next-gen micro-storytelling app for the mob
 <table align="center"><tr>
 <td><a href="https://www.linkedin.com/in/StorytellerAtul"><img src="https://img.shields.io/badge/LinkedIn-StorytellerAtul-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a></td>
 <td><a href="https://atulpurohit.in"><img src="https://img.shields.io/badge/Website-atulpurohit.in-F97316?style=for-the-badge&logo=firefox-browser&logoColor=white"/></a></td>
-<td><a href="https://www.writco.in"><img src="https://img.shields.io/badge/Writco-writco.in-FF6B6B?style=for-the-badge&logo=bookstack&logoColor=white"/></a></td>
 <td><a href="mailto:atul@writco.in"><img src="https://img.shields.io/badge/Email-atul%40writco.in-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a></td>
 <td><a href="https://instagram.com/AtulPurohit"><img src="https://img.shields.io/badge/Instagram-AtulPurohit-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a></td>
-<td><a href="https://facebook.com/AtulPurohit"><img src="https://img.shields.io/badge/Facebook-AtulPurohit-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a></td>
 </tr></table>
 
 </div>
